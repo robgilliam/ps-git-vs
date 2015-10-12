@@ -1,3 +1,5 @@
 Initial File 1 text in master branch - additional changes to file 1
 
 Additional Changes to File 1
+
+Amended changes
